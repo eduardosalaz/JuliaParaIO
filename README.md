@@ -9,3 +9,4 @@ Repositorio con los contenidos de la plática "Julia para Investigación de Oper
 3. `julia`
 4. `]`
 5. `activate .`
+6. En el caso de querer usar [Gurobi.jl](https://github.com/jump-dev/Gurobi.jl), seguir sus pasos de instalación
