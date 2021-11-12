@@ -1,5 +1,7 @@
 # JuliaParaIO
-Repositorio con los contenidos de la plática "Julia para Investigación de Operaciones"
+Repositorio con los contenidos de la plática "Julia para Investigación de Operaciones".
+
+Paquete https://github.com/wg030/jlcode de Latex usado para insertar código
 
 
 ## Instalación:
